@@ -9,7 +9,7 @@ Tabela de conteúdos
   * [Tabela de Conteudo](#tabela-de-conteudo)
   * [Instalação](#instalacao)
   * [Como user](#como-usar)
-    * [Pré Requisitos](#pre-requisitos)
+    * [Pré Requisitos](###pre-requisitos)
   * [Tecnologias](#tecnologias)
 <!--te-->
 
