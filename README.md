@@ -19,7 +19,30 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [Python](https://www.python.org/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Back End (servidor)
+
+### 🎲 Rodando o Front End (APP)
+
+```bash
+# Clone este repositório
+$ git clone [https://github.com/FehRoque/full-stack-react-ts-python.git]
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd app/frontend/
+
+# Vá para a pasta app
+$ cd app
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação
+$ npm start
+
+# O servidor iniciará na porta:3000 - acesse <http://localhost:3000>
+```
+
+
+### 🎲 Rodando o Back End (API)
 
 ```bash
 # Clone este repositório
@@ -28,18 +51,17 @@ $ git clone [https://github.com/FehRoque/full-stack-react-ts-python.git]
 # Acesse a pasta do projeto no terminal/cmd
 $ cd app/backend
 
-# Vá para a pasta api
-$ cd api
-
 # Instale as dependências
 $ pip install requirements.txt
+
+# Vá para a pasta api
+$ cd api
 
 # Execute a aplicação
 $ python app.py
 
-# O servidor inciará na porta:5000 - acesse <http://localhost:5000>
+# O servidor iniciará na porta:5000 - acesse <http://localhost:5000>
 ```
-
 
 ### 🛠 Tecnologias
 
@@ -48,10 +70,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Python](https://www.python.org/)
-
-# Run Frontend (you need Node.JS)
-# Go to app/frontend/app
-# Install dependencies -> npm i 
-# Execute npm start on terminal 
-# Go to web page http://127.0.0.1/3000
 
