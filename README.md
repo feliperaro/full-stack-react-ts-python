@@ -9,7 +9,7 @@ Tabela de conteúdos
   * [Tabela de Conteudo](#tabela-de-conteudo)
   * [Instalação](#instalacao)
   * [Como user](#como-usar)
-    * [Pre Requisitos](#pre-requisitos)
+    * [Pré Requisitos](#pre-requisitos)
   * [Tecnologias](#tecnologias)
 <!--te-->
 
@@ -39,6 +39,15 @@ $ python app.py
 
 # O servidor inciará na porta:5000 - acesse <http://localhost:5000>
 ```
+
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [React](https://pt-br.reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Python](https://www.python.org/)
 
 # Run Frontend (you need Node.JS)
 # Go to app/frontend/app
