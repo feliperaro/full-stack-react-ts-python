@@ -6,12 +6,39 @@ Tabela de conteúdos
 
 <!--ts-->
   * [Sobre](#Sobre)
-  * [Tabela de Conteudo] (#tabela-de-conteudo)
-  * [Intalação](#instalacao)
+  * [Tabela de Conteudo](#tabela-de-conteudo)
+  * [Instalação](#instalacao)
   * [Como user](#como-usar)
     * [Pre Requisitos](#pre-requisitos)
   * [Tecnologias](#tecnologias)
 <!--te-->
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+### 🎲 Rodando o Back End (servidor)
+
+```bash
+# Clone este repositório
+$ git clone <[https://github.com/tgmarinho/nlw1](https://github.com/FehRoque/full-stack-react-ts-python.git)>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd app/backend
+
+# Vá para a pasta api
+$ cd api
+
+# Instale as dependências
+$ pip install requirements.txt
+
+# Execute a aplicação
+$ python app.py
+
+# O servidor inciará na porta:5000 - acesse <http://localhost:5000>
+```
 
 # Run Frontend (you need Node.JS)
 # Go to app/frontend/app
