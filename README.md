@@ -23,7 +23,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <[https://github.com/FehRoque/full-stack-react-ts-python.git]>
+$ git clone [https://github.com/FehRoque/full-stack-react-ts-python.git]
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd app/backend
