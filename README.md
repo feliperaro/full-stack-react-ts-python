@@ -34,7 +34,7 @@ $ git clone [https://github.com/FehRoque/full-stack-react-ts-python.git]
 $ cd app/frontend/
 
 # Vá para a pasta app
-$ cd app
+$ cd app/
 
 # Instale as dependências
 $ npm install
@@ -53,13 +53,13 @@ $ npm start
 $ git clone [https://github.com/FehRoque/full-stack-react-ts-python.git]
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd app/backend
+$ cd app/backend/
 
 # Instale as dependências
 $ pip install requirements.txt
 
 # Vá para a pasta api
-$ cd api
+$ cd api/
 
 # Execute a aplicação
 $ python app.py
