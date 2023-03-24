@@ -6,7 +6,7 @@ Tabela de conteúdos
 <!--ts-->
   * [Sobre](#Sobre)
   * [Tabela de Conteudo](#tabela-de-conteudo)
-  * [Instalação](#instalacao)
+  * [Instalação](#instalação)
   * [Como usar](#como-usar)
     * [Pré Requisitos](#pré-requisitos)
   * [Tecnologias](#tecnologias)
@@ -78,5 +78,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Redux](https://redux.js.org/usage/usage-with-typescript/)
 - [Python](https://www.python.org/)
 
