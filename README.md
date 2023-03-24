@@ -8,15 +8,15 @@ Tabela de conteúdos
   * [Sobre](#Sobre)
   * [Tabela de Conteudo](#tabela-de-conteudo)
   * [Instalação](#instalacao)
-  * [Como user](#como-usar)
-    * [Pré Requisitos](###pre-requisitos)
+  * [Como usqr](#como-usar)
+    * [Pré Requisitos](#pre-requisitos)
   * [Tecnologias](#tecnologias)
 <!--te-->
 
-### Pré-requisitos
+# Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [Python](https://www.python.org/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Rodando o Back End (servidor)
