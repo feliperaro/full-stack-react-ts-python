@@ -1,11 +1,9 @@
-import React, {
-    useEffect,
-} from 'react';
+import React from 'react';
 
 const DeleteUserPage: React.FC = () => {    
     return (
         <div>
-            <h1>Delete User</h1>
+            <h1>Delete User Page</h1>
         </div>
     )
 }

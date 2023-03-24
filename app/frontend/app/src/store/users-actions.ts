@@ -1,10 +1,10 @@
 import usersSlice from './users-slice';
 
+import { AnyAction } from 'redux';
+import { RootState } from './index';
+import { ThunkAction } from 'redux-thunk';
 import { UserModel } from '../models/redux-models';
 import UsersService from '../services/users-service';
-import { ThunkAction } from 'redux-thunk';
-import { RootState } from './index';
-import { AnyAction } from 'redux';
 
 export const usersActions = usersSlice.actions
 

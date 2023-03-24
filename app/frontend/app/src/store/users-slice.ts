@@ -1,5 +1,5 @@
-import { UserModel, UsersArrayModel } from "../models/redux-models";
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
+import { UserModel, UsersArrayModel } from "../models/redux-models";
 
 
 const initialUsersState: UsersArrayModel = {
@@ -26,3 +26,4 @@ const usersSlice = createSlice({
 })
 
 export default usersSlice
+

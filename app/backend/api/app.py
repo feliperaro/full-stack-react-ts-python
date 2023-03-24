@@ -1,4 +1,4 @@
-from flask import Flask, request, render_template, jsonify
+from flask import Flask, request, jsonify
 from flask_restful import Api
 from api_handler import *
 
@@ -36,7 +36,6 @@ def users():
             "phone": user['phone'],
         })
 
-    # print(f"\n\n\nusers: {users}")
     return jsonify({'users': users})
     
 
@@ -77,5 +76,4 @@ def user(user_id: str):
 # Running app
 if __name__ == '__main__':
     app.run(debug=True)
-
 

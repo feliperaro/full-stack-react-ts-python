@@ -8,6 +8,7 @@ const css: React.CSSProperties = {
   width: '100%',
 }
 
+
 const NotFoundPage: React.FC = () => (
   <div data-cy="not-found-page" style={css}>
     <h1>Page Not Found</h1>
@@ -15,3 +16,4 @@ const NotFoundPage: React.FC = () => (
 )
 
 export default NotFoundPage;
+

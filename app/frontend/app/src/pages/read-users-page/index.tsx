@@ -1,11 +1,7 @@
-import React, {
-    useEffect, useState,
-} from "react";
-
-import { useAppDispatch, useAppSelector } from '../../hooks/redux-hooks';
-import { fetchUsers } from "../../store/users-actions";
+import React from "react";
 
 import ReadUsersForm from "../../components/read-users-form";
+import { useAppSelector } from '../../hooks/redux-hooks';
 import "../../App.css"
 
 const ReadUsersPage: React.FC = () => {

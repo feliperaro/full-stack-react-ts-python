@@ -12,17 +12,18 @@ interface Props {
 export const Input: React.FunctionComponent<Props> = (props) => {
     return (
         <div className={formatWrapperClass(props)}>
-        <label htmlFor={props.name}>{props.label}</label>
-        <div className="field">
-            <input type="text"
-            name={props.name}
-            className="form-control"
-            placeholder={props.placeholder}
-            value={props.value}
-            onChange={onChangeInput(props)}
-            />
-        </div>
-        <div className="help-block">{props.error}</div>
+            <label htmlFor={props.name}>{props.label}</label>
+            <div className="field">
+                <input 
+                    className="form-control"
+                    type="text"
+                    name={props.name}
+                    placeholder={props.placeholder}
+                    value={props.value}
+                    onChange={onChangeInput(props)}
+                />
+            </div>
+            <div className="help-block">{props.error}</div>
         </div>
     )
 };

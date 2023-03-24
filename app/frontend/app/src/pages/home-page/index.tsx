@@ -2,6 +2,7 @@ import React from 'react';
 import Root from '../../components/root';
 import './index.css'
 
+
 const HomePage: React.FC = () => {
     return (
         <div className='main'>
@@ -14,4 +15,5 @@ const HomePage: React.FC = () => {
 }
 
 export default HomePage;
+
 

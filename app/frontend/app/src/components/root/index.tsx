@@ -6,10 +6,10 @@ export default function Root() {
                 <nav>
                     <ul>
                         <li>
-                            <a href={'/users/'}>{"Read Users"}</a>
+                            <a href={'/users/create'}>{"Create User"}</a>
                         </li>
                         <li>
-                            <a href={'/users/create'}>{"Create User"}</a>
+                            <a href={'/users/'}>{"Read Users"}</a>
                         </li>
                     </ul>
                 </nav>

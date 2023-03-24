@@ -1,3 +1,4 @@
+
 export interface UserModel  {
     "id": string | null,
     "username": string,
@@ -10,3 +11,4 @@ export interface UsersArrayModel {
     allUsers: UserModel[],
     user: UserModel,
 }
+

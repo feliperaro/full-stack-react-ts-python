@@ -6,7 +6,7 @@ import React, {
 import { Button, Form } from 'semantic-ui-react';
 import usersService from "../../services/users-service";
 import { UserModel } from "../../models/redux-models";
-import { useAppSelector, useAppDispatch } from '../../hooks/redux-hooks';
+import { useAppSelector } from '../../hooks/redux-hooks';
 import { useNavigate } from "react-router";
 
 const UpdateUserForm: React.FC = () => {
@@ -71,3 +71,4 @@ const UpdateUserForm: React.FC = () => {
 }
 
 export default UpdateUserForm;
+

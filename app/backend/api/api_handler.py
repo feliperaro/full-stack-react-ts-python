@@ -1,7 +1,7 @@
 import requests
 
-# BASE_URL = 'https://fakestoreapi.com/users/'
-BASE_URL = 'https://jsonplaceholder.typicode.com/users/' # case fakestore does not work
+BASE_URL = 'https://fakestoreapi.com/users/'
+# BASE_URL = 'https://jsonplaceholder.typicode.com/users/' # case fakestore does not work
 
 
 def get_users():
