@@ -39,7 +39,7 @@ $ npm install
 # Execute a aplicação
 $ npm start
 
-# O servidor iniciaráem localhost na porta:3000 - acesse <http://127.0.0.1:3000>
+# O servidor iniciará em localhost na porta:3000 - acesse <http://127.0.0.1:3000>
 ```
 
 
