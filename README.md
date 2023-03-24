@@ -31,10 +31,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone [https://github.com/FehRoque/full-stack-react-ts-python.git]
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd app/frontend/
-
-# Vá para a pasta app
-$ cd app/
+$ cd app/frontend/app/
 
 # Instale as dependências
 $ npm install
@@ -42,7 +39,7 @@ $ npm install
 # Execute a aplicação
 $ npm start
 
-# O servidor iniciará na porta:3000 - acesse <http://localhost:3000>
+# O servidor iniciaráem localhost na porta:3000 - acesse <http://127.0.0.1:3000>
 ```
 
 
@@ -56,7 +53,7 @@ $ git clone [https://github.com/FehRoque/full-stack-react-ts-python.git]
 $ cd app/backend/
 
 # Instale as dependências
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 
 # Vá para a pasta api
 $ cd api/
@@ -64,7 +61,7 @@ $ cd api/
 # Execute a aplicação
 $ python app.py
 
-# O servidor iniciará na porta:5000 - acesse <http://localhost:5000>
+# O servidor iniciará em localhost na porta:5000 - acesse <http://127.0.0.1:5000>
 ```
 
 ### 🛠 Tecnologias
