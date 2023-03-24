@@ -8,12 +8,12 @@ Tabela de conteúdos
   * [Sobre](#Sobre)
   * [Tabela de Conteudo](#tabela-de-conteudo)
   * [Instalação](#instalacao)
-  * [Como usqr](#como-usar)
-    * [Pré Requisitos](#pre-requisitos)
+  * [Como usar](#como-usar)
+    * [Pré Requisitos](#pré-requisitos)
   * [Tecnologias](#tecnologias)
 <!--te-->
 
-# Pré-requisitos
+### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [Python](https://www.python.org/). 
