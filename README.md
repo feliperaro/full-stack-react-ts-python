@@ -4,23 +4,21 @@ Tabela de conteúdos
 ===================
 
 <!--ts-->
+  * [Tabela de Conteudo](#tabela-de-conteúdos)
   * [Sobre](#Sobre)
-  * [Tabela de Conteudo](#tabela-de-conteudo)
   * [Instalação](#instalação)
   * [Como usar](#como-usar)
     * [Pré Requisitos](#pré-requisitos)
   * [Tecnologias](#tecnologias)
 <!--te-->
 
-### Sobre
+# Sobre
 
 Esse é um app teste desenvolvido utilizando as tecnologias React, TypeScript e Python.
 
-### Tabela de Conteudo
-
 ### Instalação
 
-### Como usar
+# Como usar
 
 ### Pré-requisitos
 
