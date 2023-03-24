@@ -1,5 +1,4 @@
 # full-stack-react-ts-python
-## This is a full stack test made with React.js, TypeScript and Python.
 
 Tabela de conteúdos
 ===================
@@ -12,6 +11,16 @@ Tabela de conteúdos
     * [Pré Requisitos](#pré-requisitos)
   * [Tecnologias](#tecnologias)
 <!--te-->
+
+### Sobre
+
+Esse é um app teste desenvolvido utilizando as tecnologias React, TypeScript e Python.
+
+### Tabela de Conteudo
+
+### Instalação
+
+### Como usar
 
 ### Pré-requisitos
 
