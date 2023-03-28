@@ -13,14 +13,14 @@ Tabela de conteúdos
 
 # Sobre
 
-Esse é um app teste desenvolvido utilizando as tecnologias React, TypeScript e Python.
+Essa é uma api desenvolvida para realizar o desafio proposto pela Faculdade PD as tecnologias utilizadas foram Golang e PostgreSQL.
 
 # Como usar
 
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e [Python](https://www.python.org/). 
+[Git](https://git-scm.com), [GO](https://go.dev/) e [PostgreSQL](https://www.postgresql.org/docs/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 
